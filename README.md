@@ -1,6 +1,5 @@
 # TEXT MINING DRUG REVIEWS DATASET
-
-## medicine - model
+## Machine Learning - Apache Spark - Python
 
 ### Questions to Think About
 1. Can we create a way for people to find the best medication for their illness? In other words, can we use this dataset to implement a recommendation system?
